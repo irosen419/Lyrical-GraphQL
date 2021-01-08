@@ -1,0 +1,14 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0
+}
+
+.material-icons:hover {
+    cursor: pointer;
+}
